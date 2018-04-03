@@ -146,5 +146,5 @@
 		<module>swagger-dubbo</module>
 		<module>swagger-dubbo-example</module>
 	</modules>
-	<!--马牌，切了火-->
+	<!--马牌-->
 </project>
